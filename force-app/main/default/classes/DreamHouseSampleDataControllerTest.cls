@@ -1,6 +1,6 @@
 @isTest
 private class DreamHouseSampleDataControllerTest {
-
+    /*tst*/
     @isTest
     static void test_deleteAll() {
 
@@ -16,7 +16,7 @@ private class DreamHouseSampleDataControllerTest {
         Test.startTest();
 
         DreamHouseSampleDataController.deleteAll();
-
+        /*tst2*/
         Test.stopTest();
 
         System.assertEquals( 0, [ SELECT count() FROM Property__c ] );
