@@ -1,4 +1,4 @@
-/*tst*/
+/*tst2*/
 global with sharing class DreamHouseSampleDataController {
 
     @RemoteAction
