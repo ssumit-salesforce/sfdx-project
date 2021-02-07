@@ -1,6 +1,6 @@
 @isTest
 private class DreamHouseSampleDataControllerTest {
-    /*tst2*/
+    /*tst25*/
     @isTest
     static void test_deleteAll() {
 
