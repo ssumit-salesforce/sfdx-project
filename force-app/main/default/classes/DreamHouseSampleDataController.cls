@@ -1,4 +1,4 @@
-/*tst23*/
+/*tst234*/
 global with sharing class DreamHouseSampleDataController {
 
     @RemoteAction
